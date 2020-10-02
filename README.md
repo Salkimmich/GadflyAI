@@ -1,3 +1,7 @@
 # GadflyAI
 
-![Tentative Cirriculum Fall 2020](Machine Learning Fundamentals.png)
+
+
+Cirriculum Fall 2020 
+
+![Cirriculum](/relative/path/to/img.jpg?raw=true "Machine Learning Fundamentals.png")
